@@ -33,7 +33,7 @@ The Virtual AI Mouse is a computer vision project that allows users to control t
 
 ### Usage
 
-1. Run the `virtual_mouse.py` script:
+1. Run the `VirtualMouse.py` script:
 
    ```bash
    python virtual_mouse.py
